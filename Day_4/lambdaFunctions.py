@@ -27,3 +27,4 @@ number_square = 5
 result_square = lambda_square(number_square)
 print(result_square)
 # # Output: 25
+
